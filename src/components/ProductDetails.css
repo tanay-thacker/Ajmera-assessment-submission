@@ -1,0 +1,55 @@
+
+
+#image{
+    height: 50vh;
+    border: 5px;
+    margin-top: 15px;
+
+    
+}
+
+#cat{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+    color: rgb(135, 31, 255);
+    font-weight: bold;
+}
+
+#title{
+    font-size:24px;
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: left;
+}
+
+#desc{
+    margin-top: 2px;
+    word-wrap: normal;
+    font-size: 16px;
+    color:rgb(124, 124, 124);
+    text-align: left;
+    margin-left: 20px;
+}
+
+#price{
+    margin-top: 2px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    font-weight: bolder;
+
+}
+
+#rating{
+    margin-top: 2px;
+    word-wrap: normal;
+    font-size: 15px;
+    color:rgb(151, 151, 151);
+    text-align: left;
+    margin-left: 20px;
+}
+
+b{
+    color: black;
+}
